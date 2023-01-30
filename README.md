@@ -15,7 +15,7 @@ The attempt of using new features and commands e.g.
 
 ## Quick view
 
-![Screensot](images/screenshoot.png)
+![Screenshot](images/Screenshoot.PNG)
 
 ## Link
 
