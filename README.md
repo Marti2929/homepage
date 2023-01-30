@@ -13,6 +13,10 @@ The attempt of using new features and commands e.g.
 - classList,
 - addEventListener.
 
+## Quick view
+
+![Screensot](images/screenshoot.png)
+
 ## Link
 
 Please find demo in the link below.
